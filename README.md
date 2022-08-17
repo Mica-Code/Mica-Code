@@ -1,6 +1,5 @@
-<div align="left">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 20%"/>
-</div>
+[![Ikechukwu's GitHub Banner](https://media-exp1.licdn.com/dms/image/C4D16AQHLYFZfthlpWQ/profile-displaybackgroundimage-shrink_350_1400/0/1660697108425?e=1666224000&v=beta&t=ZBwp3llDKRQqqN8QNyl3rW_gPfbpdhFZlU1nkzDKJNQ)](https://media-exp1.licdn.com/dms/image/C4D16AQHLYFZfthlpWQ/profile-displaybackgroundimage-shrink_350_1400/0/1660697108425?e=1666224000&v=beta&t=ZBwp3llDKRQqqN8QNyl3rW_gPfbpdhFZlU1nkzDKJNQ)
+
 
 # 💫 About Me:
 ### <div align="left">I'm Ikechukwu, a Software Engineer 👨‍💻 🚀</div>  
