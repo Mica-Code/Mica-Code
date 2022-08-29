@@ -25,7 +25,7 @@ I'm a software engineer and self-proclaimed brand identity designer. I am a Clou
 <a href="https://twitter.com/ukatuleo" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href=https://www.pinterest.com/ukatuleonaldino/my-portfolio/" target="_blank">
+<a href=https://www.pinterest.com/ukatuleonaldino/my-portfolio/ target="_blank">
 <img src=https://img.shields.io/badge/pinterest-red.svg?&style=for-the-badge&logo=pinterest&logoColor=white alt=pinterest style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/ukatu-ikechukwu-a9501914b" target="_blank">
