@@ -1,4 +1,5 @@
-[![Ikechukwu's GitHub Banner](https://media-exp1.licdn.com/dms/image/C4D16AQHLYFZfthlpWQ/profile-displaybackgroundimage-shrink_350_1400/0/1660697108425?e=1666224000&v=beta&t=ZBwp3llDKRQqqN8QNyl3rW_gPfbpdhFZlU1nkzDKJNQ)](https://media-exp1.licdn.com/dms/image/C4D16AQHLYFZfthlpWQ/profile-displaybackgroundimage-shrink_350_1400/0/1660697108425?e=1666224000&v=beta&t=ZBwp3llDKRQqqN8QNyl3rW_gPfbpdhFZlU1nkzDKJNQ)
+
+![banner](https://user-images.githubusercontent.com/56010654/197697313-59a8473f-9ab9-4633-9fd9-95ac57f89cd9.png)
 
 
 # 💫 About Me:
